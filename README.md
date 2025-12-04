@@ -43,7 +43,7 @@ Possuo <strong>experiência prática com Docker</strong>, criação de ambientes
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/MySQL/MySQL-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Stack-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="40"/>
   
 </p>
 
