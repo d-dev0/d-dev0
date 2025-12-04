@@ -6,7 +6,7 @@
 
 <!-- Intro -->
 <p align="left">
-Sou estudante de <strong>Análise e Desenvolvimento de Sistemas (3º período)</strong>, com foco em <strong>desenvolvimento backend</strong>, <strong>bancos de dados</strong> e <strong>infraestrutura com containers</strong>.
+Sou estudante de <strong>Análise e Desenvolvimento de Sistemas </strong>, com foco em <strong>desenvolvimento backend</strong>, <strong>bancos de dados</strong> e <strong>infraestrutura com containers</strong>.
 Trabalho com APIs REST, modelagem de dados e práticas modernas de engenharia de software.
 </p>
 
