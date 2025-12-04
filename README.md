@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">d-dev0</h1>
-<h3 align="center">Desenvolvedor Backend • Java | Spring | Node.js | PostgreSQL | Docker</h3>
+<h3 align="center">Desenvolvedor Backend • Java | Spring | Node.js | PostgreSQL | MySQL | Docker</h3> 
 
 <br/>
 
@@ -33,7 +33,7 @@ Possuo <strong>experiência prática com Docker</strong>, criação de ambientes
 
 ---
 
-## ⚙️ Stack Técnica
+## ⚙️ Stacks
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /> 
@@ -43,6 +43,7 @@ Possuo <strong>experiência prática com Docker</strong>, criação de ambientes
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/MySQL/MySQL-original.svg" width="40"/>
   
 </p>
 
