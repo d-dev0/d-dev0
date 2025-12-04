@@ -25,7 +25,8 @@ Possuo <strong>experiência prática com Docker</strong>, criação de ambientes
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Postgres" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="MySQL" src= "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 
 </p>
 
